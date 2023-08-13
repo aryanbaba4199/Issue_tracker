@@ -1,4 +1,4 @@
-require('dotenv').config();  //Load Env
+// require('dotenv').config();  //Load Env
 const express = require('express');
 
 const db = require('./config/mongoose');
